@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">Cybersecurity Engineer | Threat Hunter | Detection & Response Specialist</h3>
+<h1>Hi 👋, I'm Felix</h1>
+<h3> Incident Response | Cybersecurity Engineer | Threat Hunter | Detection & Response Specialist</h3>
 
 ### 🛡️ About Me
 
@@ -14,7 +14,7 @@
 
 ### 🚀 Technologies & Tools
 
-<div align="center">
+</div>
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
