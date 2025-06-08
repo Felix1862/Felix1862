@@ -2,7 +2,7 @@
 <h3> Incident Response | Cybersecurity Engineer | Threat Hunter | Detection & Response Specialist</h3>
 
 ### 🛡️ About Me
-I'm a cybersecurity professional with 6+ years of experience in SOC operations, threat detection, and incident response — spanning military cyber defense, national healthcare infrastructure, and enterprise-level environments.
+I'm a cybersecurity professional with years of experience in SOC operations, threat detection, and incident response — spanning military cyber defense, national healthcare infrastructure, and enterprise-level environments.
 
 My career has focused on:
 - Leading response to high-impact cyber threats across multi-cloud and hybrid infrastructures
