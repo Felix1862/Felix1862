@@ -47,8 +47,7 @@ With a strong foundation in secure software engineering (Python, Django, SQL), I
   - Sphinx – used for writing technical documentation, playbooks, and internal tool guides in ReStructuredText/Markdown.
 
  - **The University of Manchester Software Engineering Bootcamp Graduate** 
--![image](https://github.com/user-attachments/assets/c89606e4-d972-4a40-9dd3-b0f402797583)
- [Software Engineering(https://www.hyperiondev.com/portfolio/FK24110015831/)
+ - 📚[Software Engineering(https://www.hyperiondev.com/portfolio/FK24110015831/)
 
 </div>
 
