@@ -1,3 +1,6 @@
+![iStock-2212109060 (1)](https://github.com/user-attachments/assets/3e0b048f-c6fe-4596-9513-9269b0706265)
+
+
 <h1>Hi 👋, I'm Felix</h1>
 <h3> Incident Response | Cybersecurity Engineer | Threat Hunter | Detection & Response Specialist</h3>
 
