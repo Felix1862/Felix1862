@@ -74,3 +74,8 @@ With a strong foundation in secure software engineering (Python, Django, SQL), I
 ### 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/felix-k-41a58550/)
 
+### 💻 Certificates
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/1b2cce58-9075-44d3-8ae5-5add760bf1f0/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6500569d-ce2e-4214-80b9-5e11177975ab/linked_in_profile)
+- [Cloud Digital Leader](https://www.credential.net/4a5af370-d829-463a-9130-3fff34bc8f2a#acc.cAlZSn1J)
+
