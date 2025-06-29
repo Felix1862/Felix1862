@@ -79,3 +79,5 @@ With a strong foundation in secure software engineering (Python, Django, SQL), I
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6500569d-ce2e-4214-80b9-5e11177975ab/linked_in_profile)
 - [Cloud Digital Leader](https://www.credential.net/4a5af370-d829-463a-9130-3fff34bc8f2a#acc.cAlZSn1J)
 
+### Continous Professional Development
+[Advanced Linux](https://app.letsdefend.io/my-rewards/detail/f09f41d9d0db49bcaf010707cbbec0ec)
