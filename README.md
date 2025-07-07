@@ -80,5 +80,5 @@ With a strong foundation in secure software engineering (Python, Django, SQL), I
 - [Cloud Digital Leader](https://www.credential.net/4a5af370-d829-463a-9130-3fff34bc8f2a#acc.cAlZSn1J)
 
 ### Continous Professional Development
-[Advanced Linux](https://app.letsdefend.io/my-rewards/detail/f09f41d9d0db49bcaf010707cbbec0ec)
-[Introduction to Python for Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3SE9W09CT0OQ)
+- [Advanced Linux](https://app.letsdefend.io/my-rewards/detail/f09f41d9d0db49bcaf010707cbbec0ec)
+- [Introduction to Python for Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3SE9W09CT0OQ)
