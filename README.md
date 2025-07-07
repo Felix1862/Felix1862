@@ -81,3 +81,4 @@ With a strong foundation in secure software engineering (Python, Django, SQL), I
 
 ### Continous Professional Development
 [Advanced Linux](https://app.letsdefend.io/my-rewards/detail/f09f41d9d0db49bcaf010707cbbec0ec)
+[Introduction to Python for Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3SE9W09CT0OQ)
