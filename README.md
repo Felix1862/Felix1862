@@ -82,4 +82,5 @@ With a strong foundation in secure software engineering (Python, Django, SQL), I
 ### Continous Professional Development
 - [Advanced Linux](https://app.letsdefend.io/my-rewards/detail/f09f41d9d0db49bcaf010707cbbec0ec)
 - [Advanced Bash](https://app.letsdefend.io/my-rewards/detail/6d9b85056bad40df8bafa76f406f0c72)
+- [Bash Scripting for Blue Team](https://app.letsdefend.io/my-rewards/detail/b9f38603-dc4e-47cd-9f33-b91411a8d807)
 - [Introduction to Python for Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3SE9W09CT0OQ)
