@@ -84,5 +84,6 @@ With a strong foundation in secure software engineering (Python, Django, SQL), I
 - [Advanced Bash](https://app.letsdefend.io/my-rewards/detail/6d9b85056bad40df8bafa76f406f0c72)
 - [Bash Scripting for Blue Team](https://app.letsdefend.io/my-rewards/detail/b9f38603-dc4e-47cd-9f33-b91411a8d807)
 - [PowerShell for Analysis](https://app.letsdefend.io/my-rewards/detail/7e1ccdb5-acca-4d43-8991-6db47183695f)
+- [Advanced PowerShell for Blue Team](https://app.letsdefend.io/my-rewards/detail/e569d335-19bb-4c36-80b0-0d9061707ad2)
 - [Introduction to Python for Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3SE9W09CT0OQ)
 - [Execution, Persistence, Privilege Escalation and Evasion](https://coursera.org/share/da27c68118f827e94f1f93a418b54f41)
